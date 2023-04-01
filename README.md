@@ -51,9 +51,9 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="430em" src="https://github-readme-stats.vercel.app/api?username=GabrielMunhoz&show_icons=true&theme=vision-friendly-dark" alt="gabrielmunhoz's stats" />
+<img width="400em" src="https://github-readme-stats.vercel.app/api?username=GabrielMunhoz&show_icons=true&theme=vision-friendly-dark" alt="gabrielmunhoz's stats" />
   &nbsp;&nbsp;
-<img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMunhoz&layout=compact&theme=vision-friendly-dark" alt="gabrielmunhoz's most languages"/>
+<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMunhoz&layout=compact&theme=vision-friendly-dark" alt="gabrielmunhoz's most languages"/>
 </p>
 
 
