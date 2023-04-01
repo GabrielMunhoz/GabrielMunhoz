@@ -50,7 +50,7 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p align="left">
 <img width="450em" src="https://github-readme-stats.vercel.app/api?username=GabrielMunhoz&show_icons=true&theme=vision-friendly-dark" alt="gabrielmunhoz's stats" />
   &nbsp;&nbsp;
 <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMunhoz&layout=compact&theme=vision-friendly-dark" alt="gabrielmunhoz's most languages"/>
