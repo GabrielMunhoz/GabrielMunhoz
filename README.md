@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/GabrielMunhoz/0e19f87a895ba5c8013d5cc258cd647b/raw/4b5d6ffbdcb8a3a16c166998173417bd254d6aca/githubcard.svg"/>
+<img align="right" height="590em" src="https://gist.github.com/GabrielMunhoz/0e19f87a895ba5c8013d5cc258cd647b#file-githubcard-svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Gabriel Munhoz</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GabrielMunhoz&color=yellow" alt="Profile views" /> </p>
 
