@@ -14,7 +14,7 @@
 
 - 🎮 Project recently worked [Players Book](https://github.com/GabrielMunhoz/Projeto_Desenvolvimento_II)
 
-- 🎯 Focused on becaming a Senior Developer on ![DotnetCore](https://img.shields.io/badge/--A100FF?style=flat&logo=.net)&nbsp;
+- 🎯 Focused on becoming a Senior Developer on ![DotnetCore](https://img.shields.io/badge/--A100FF?style=flat&logo=.net)&nbsp;
 
 <br><br>
 ## Contact
